@@ -94,21 +94,24 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 1
 
-
+Plotted by plot1.r
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
 
 ### Plot 2
 
+Plotted by plot2.r
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 
 
 ### Plot 3
 
+Plotted by plot3.r
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 
 
 ### Plot 4
 
+Plotted by plot4.r
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
